@@ -1,0 +1,215 @@
+.body_login
+{
+	background-image: url('../img/logres/bg_img_login.jpeg');
+	background-size:cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+.page
+{
+	margin: 100px auto;
+	padding: 30px 20px;
+	border-radius: 15px;
+	width: 60%;
+	background-color: white;
+	margin-top: 100px;
+
+}
+.con
+{
+	width: 60%;
+	margin: auto auto;
+}
+.form-control
+{
+	border-radius: 10px;	
+	border:1px solid #c9a632;
+	height: 50px;
+}
+.btn-login{
+	margin: 20px auto;
+	height: 40px;
+}
+.form-regis
+{
+	border-radius: 10px;
+	margin: 20px auto;
+	border:1px solid #c9a632;
+	height: 50px;
+	width: 70px;
+	margin-right: 20px;
+	margin-left: 10px;
+	height: 40px;
+}
+.img-home
+{
+	margin-top: -10px;
+	margin-bottom: -10px;
+}
+.img-about
+{
+	height: 400px;
+}
+.jumb-about
+{
+	margin-top: auto;
+	background-color: white;	
+}
+.page-about
+{	
+	width: 100%;
+	background-color: white;
+	margin-top: 100px;
+}
+.img-fw
+{
+	width: 50px;
+	height: 50px;
+}
+.img-i
+{
+	width: 40px;
+	height: 40px;
+	margin-left: 5px;
+	margin-top: 5px;
+}
+
+.body-content {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    text-align: left;
+}
+
+.brand {
+    font-family: Playfair Display;
+    font-size: 88px;
+    line-height: 117px;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+
+.navbar {
+    background: rgba(221, 163, 93, 0.8);
+    opacity: 0.75;
+}
+.nav-item-contet {
+    font-family: Playfair Display;
+    font-size: 22px;
+    line-height: 29px;
+    text-align: center;
+    color: #000000;
+}
+.card {
+    /* border-radius: 15px!important; */
+    background-color:#dddbdb!important;
+}
+.card-body {
+    width: auto;
+    /* border-radius: 15px; */
+}
+.customPadding {
+    padding-left: 4px!important; 
+    padding-right: 4px!important;
+    padding-bottom: 8px;
+    border-radius: 15px!important;
+}
+.card-title {
+    font-family: Lora;
+    font-weight: bold;
+    font-size: 22px;
+}
+.card-text {
+    font-family: Lora;
+    font-size: 18px;
+}
+.fav{
+    size: 20px 18.35px;
+}
+.img-card-profile
+{
+	margin-top: 20px;
+	width: 200px;
+	height: 200px;
+	margin-bottom: 20px;
+}
+.box-profile
+{
+	border : 2px solid black;
+	width: 400px;
+	border-radius: 10px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.usrnm-profile
+{
+	margin-bottom: 20px;
+	font-family: 'Noto Sans JP';
+}
+.button-profile
+{
+	margin-bottom: 20px;
+	width: 300px;
+}
+.row-profile
+{
+	margin-top: 20px;
+}
+.bg-card
+{
+	background-color: #c9a632;
+}
+.bg-nav-content
+{
+	background-color: #d8ba56;
+	color:black;
+}
+.bg-post
+{
+	margin-right: 100px;
+}
+.box-new-post
+{
+	background-color: #C4C4C4;
+	margin-top: 30px;
+	border-radius: 7px;
+	padding-top: 20px;
+	height: 500px;
+	margin-bottom: 20px;
+}
+.form-post
+{
+	border-radius: 7px;	
+	border:1px solid black;
+	height: 40px;
+	width: 50%;
+
+    padding: 12px 20px;
+}
+.title-box-post
+{
+	margin-top: 25px;
+	margin-bottom: -10px;
+}
+.box-ac-newpost
+{
+	background-color: #C4C4C4;
+	margin-top: 90px;
+	width: 100%;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	border-radius: 5px;
+}
+.btn-add-post
+{
+	float: right;
+	width: 100px;
+}
+.ic-post
+{
+	width: 25px;
+	height: 25px;
+}
